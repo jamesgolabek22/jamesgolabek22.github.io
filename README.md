@@ -7,4 +7,9 @@ Hello and welcome to my Portfolio! My name is James Golabek and I am graduating 
 - **Description**: An exploratory data analysis and visualization of Salary data.
 - **Tech Stack**: R, Tidyverse, ggplot2.
 
-## [Project 2: Food App Customer Data Analysis & Segmentation
+## [Project 2: Food App Customer Data Analysis & Segmentation](https://github.com/jamesgolabek22/ifood_CA)
+- **Description**: An analysis of Customer Data of a Food App. Includes data preparation, in-depth exploratory data analysis, Principal Components Analysis, and k-means clustering.
+
+## [Project 3: 2019 - 2024 Tampa Bay Buccaneers Player Roster Analysis](https://github.com/jamesgolabek22/BUCS)
+- **Description**: An exploratory data analysis and visualization of the Tampa Bay Buccaneers Roster during the Bruce Arians--Todd Bowles Era.
+
